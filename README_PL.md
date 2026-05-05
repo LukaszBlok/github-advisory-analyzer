@@ -1,6 +1,6 @@
 # Analiza GitHub Advisory Database
 
-Skrypt Python do statystycznej analizy podatności bezpieczenstwa z repozytorium GitHub Advisory Database. Program przetwarza pliki JSON z bazy doradczen i generuje statystyki liczby podatnosci w podziale na lata i typy CWE, wraz z lista najbardziej podatnych pakietow.
+Skrypt Python do statystycznej analizy podatności bezpieczenstwa z repozytorium GitHub Advisory Database. Program przetwarza pliki JSON i generuje statystyki liczby podatnosci w podziale na lata i typy CWE, wraz z lista najbardziej podatnych pakietow.
 
 ## Struktura projektu
 
